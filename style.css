@@ -1,0 +1,42 @@
+body{
+    font-family: 'Akronim', cursive;
+    background-image: url('https://plainbackground.com/plain1024/d0f0c0.png');
+    color: black;
+    letter-spacing: 3px;
+}
+
+.header{
+    background-color: rgb(190, 209, 156);
+    color: black;
+}
+
+p{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#start{
+    font-family: monospace;
+    width: 100px;
+    margin-top: 20px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: rgb(107, 107, 107);
+    text-shadow: 5px 5px 5px;
+    font-size: 18px;
+    line-height: 3;
+    font-family: cursive;
+    letter-spacing: 0;
+}
+
+.main_div{
+    color: purple;
+}
